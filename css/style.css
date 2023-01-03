@@ -1,0 +1,18 @@
+.media-body {
+    padding-left: 21px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+form {
+    padding-left: 21px;
+}
+
+.mySkills {
+    padding-bottom: 20px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
