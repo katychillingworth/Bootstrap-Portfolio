@@ -16,3 +16,7 @@ footer {
     display: flex;
     justify-content: center;
 }
+
+.btn:hover {
+box-shadow: 0px 10px black;
+}
